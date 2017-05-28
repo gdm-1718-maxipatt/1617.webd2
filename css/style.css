@@ -57,7 +57,7 @@ nav{
 
 
 }
-a{text-decoration: none;}
+
 a:hover {
 	opacity: 0.7;
 }
@@ -118,6 +118,7 @@ a:hover {
 #see_projects a{
 	font-family: "Source";
 	color: #afc6d4;
+	text-decoration: none;
 }
 
 #what_we_do{
@@ -338,4 +339,10 @@ input.btnSubmit {
 
 #ul_about{
 	margin-top: 200px;
+}
+#color_1{
+	color: #afc6d4;
+}
+#color_2{
+	color:#196366;
 }
